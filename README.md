@@ -71,19 +71,21 @@ I enjoy transforming complex problems into practical software applications, comb
 
 ## Selected Projects
 
-
-## Selected Projects
-
 | Project | Description | Technologies |
 |---|---|---|
 | [House Price Prediction](https://github.com/NikhilH-R/house-price-prediction-devops) | Full-stack machine learning application for property price estimation | Python, FastAPI, TypeScript, Vite, Scikit-learn, Pytest, GitHub Actions |
-| [EpiVision 360](https://github.com/NikhilH-R/epivision-360-powerbi) | Interactive disease risk, geospatial analytics, scenario impact and statistical uncertainty dashboards | Power BI, Data Analytics, Business Intelligence, Statistical Analysis |
+| [EpiVision 360](https://github.com/NikhilH-R/epivision-360-powerbi) | Disease risk, geospatial analytics, scenario impact and statistical uncertainty dashboards | Power BI, Data Analytics, Business Intelligence, Statistical Analysis |
+| [Iris Species Analytics](https://github.com/NikhilH-R/iris-species-powerbi-analytics) | Interactive geospatial, temporal and multidimensional species analytics dashboards | Power BI, Data Analytics, Business Intelligence, EDA |
 | Species Distribution Modelling | MSc research investigating the impact of climate change on species distribution in the UK | Python, Machine Learning, Climate Data |
 | Accident Severity Prediction | Predictive classification using US road accident data | Python, FARS, Machine Learning |
 | Bacterial Growth Prediction | Predictive modelling of bacterial growth patterns | Python, Regression, Data Analysis |
 | Indian Sign Language Recognition | Computer vision-based sign language recognition | Python, Computer Vision, Deep Learning |
 | UK Energy Consumption Analytics | Interactive dashboards for analysing UK energy consumption | Power BI, Data Visualisation |
-| [Iris Species Analytics](https://github.com/NikhilH-R/iris-species-powerbi-analytics) | Interactive geospatial, temporal and multidimensional species analytics dashboards | Power BI, Data Analytics, Business Intelligence, EDA |
+
+
+
+
+
 
 
 
