@@ -116,10 +116,6 @@ An AI-powered customer support and bus booking platform integrating modern front
 
 ---
 
-## Professional Certifications
-
-- AWS Certified AI Practitioner
-- PCAP – Certified Associate Python Programmer
 
 ---
 
