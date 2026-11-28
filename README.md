@@ -80,6 +80,9 @@ I enjoy transforming complex problems into practical software applications, comb
 | Indian Sign Language Recognition | Computer vision-based sign language recognition | Python, Computer Vision, Deep Learning |
 | UK Energy Consumption Analytics | Interactive dashboards for analysing UK energy consumption | Power BI, Data Visualisation |
 
+| [EpiVision 360](https://github.com/NikhilH-R/epivision-360-powerbi) | Interactive disease risk, geospatial analytics, scenario impact comparison and statistical uncertainty dashboards | Power BI, Data Analytics, Business Intelligence, Statistical Analysis |
+
+
 ---
 
 ## Current Development
