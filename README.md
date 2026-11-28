@@ -83,6 +83,8 @@ I enjoy transforming complex problems into practical software applications, comb
 | Bacterial Growth Prediction | Predictive modelling of bacterial growth patterns | Python, Regression, Data Analysis |
 | Indian Sign Language Recognition | Computer vision-based sign language recognition | Python, Computer Vision, Deep Learning |
 | UK Energy Consumption Analytics | Interactive dashboards for analysing UK energy consumption | Power BI, Data Visualisation |
+| [Iris Species Analytics](https://github.com/NikhilH-R/iris-species-powerbi-analytics) | Interactive geospatial, temporal and multidimensional species analytics dashboards | Power BI, Data Analytics, Business Intelligence, EDA |
+
 
 
 
